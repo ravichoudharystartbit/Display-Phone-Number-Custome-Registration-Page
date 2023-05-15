@@ -17,5 +17,8 @@ $config = array(
 
 #5 Call file 'save-phone-number.php' on the customer create webhook.
 
-https://prnt.sc/C-gyGL_DTAgd
+
+<p align="center">
+  <img src="https://prnt.sc/C-gyGL_DTAgd" width="350" title="hover text">
+</p>
 
