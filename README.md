@@ -19,6 +19,6 @@ $config = array(
 
 
 <p align="center">
-  <img src="https://prnt.sc/C-gyGL_DTAgd" width="350" title="hover text">
+  <img src="https://github.com/ravichoudharystartbit/Display-Phone-Number-Custome-Registration-Page/blob/1301ea670bd769bea105234659f77240b371704a/webhook.png" width="350" title="hover text">
 </p>
 
