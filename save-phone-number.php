@@ -39,8 +39,8 @@ if(isset($verified) && !empty($webhookContent)){
     );
     //update note field if phone number is valid
     try {
-            $paramordesss = $shopify->Customer($customerId)->put($updatephone);                 
-            $paramordesss1 = $shopify->Customer($customerId)->put($updatenote);
+            $updatePhone = $shopify->Customer($customerId)->put($updatephone);                 
+            $updateNote = $shopify->Customer($customerId)->put($updatenote);
         } catch (ApiException $e) {
                  echo $e->getMessage();
         }
