@@ -16,8 +16,11 @@ $config = array(
 );
 
 #5 Call file 'save-phone-number.php' on the customer create webhook.
-
-
+Phone Number Field On customer-registration page:-
+<p align="center">
+  <img src="[https://github.com/ravichoudharystartbit/Display-Phone-Number-Custome-Registration-Page/blob/1301ea670bd769bea105234659f77240b371704a/webhook.png]" width="350" title="hover text">
+</p>
+Webhook Image:-
 <p align="center">
   <img src="https://github.com/ravichoudharystartbit/Display-Phone-Number-Custome-Registration-Page/blob/1301ea670bd769bea105234659f77240b371704a/webhook.png" width="350" title="hover text">
 </p>
